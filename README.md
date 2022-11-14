@@ -1,0 +1,1 @@
+Exrcícios resolvidos do livro Lógica de Programação com C++(Fabíola Ventavoli)
