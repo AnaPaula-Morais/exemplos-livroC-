@@ -38,9 +38,9 @@ int main() {
         cout << "A procedencia do produto e do Oeste e o valor total com o desconto e " << abs((0.25 * precoProduto) -precoProduto )<< endl;
     }else if (codProduto == 5 || codProduto == 6){
         cout << "A procedencia do produto e do Nordeste e o valor total com o desconto e " << abs((0.3 * precoProduto) -precoProduto) << endl;
-    }else if(codProduto == 7 || codProduto == 9){
+    }else if (codProduto == 7 || codProduto == 9){
         cout << "A procedencia do produto e do Suldeste e o valor total com o desconto e " <<abs((0.4 * precoProduto) -precoProduto) << endl;
-    }else if(codProduto >= 10 && codProduto <=20){
+    }else if  (codProduto >= 10 && codProduto <=20){
         cout << "A procedencia do produto e do Centro-oeste e o valor total com o desconto e " << abs((0.85 * precoProduto) - precoProduto) << endl;
     }else {
         cout << "Codigo invaliido";
